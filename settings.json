@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "<path-to-your-virtual-environment>/bin/python",
+    "python.analysis.extraPaths": ["<path-to-your-virtual-environment>/lib/python3.8/site-packages"],
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.linting.pylintPath": "<path-to-your-virtual-environment>/bin/pylint",
+}
